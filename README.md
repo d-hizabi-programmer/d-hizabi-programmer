@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saniya Memon @d-hizabi-programmer
+- 👋 Hi, I’m Saniya Memon 
 - 👀 I’m interested in web dvelopment 
 - 🌱 I’m currently persuing web dvelopment course in Conestoga College, Kitcehner, ON, Canada
 - 📫 You can mail me on saniyamemon7862@gmail.com or smemon1884@conestogac.on.ca
