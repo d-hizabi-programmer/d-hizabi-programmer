@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @d-hizabi-programmer
+- 👋 Hi, I’m Saniya Memon @d-hizabi-programmer
 - 👀 I’m interested in web dvelopment 
-- 🌱 I’m currently learning HTML CSS JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently persuing web dvelopment course in Conestoga College, Kitcehner, ON, Canada
+- 📫 You can mail me on saniyamemon7862@gmail.com or smemon1884@conestogac.on.ca
 
 <!---
 d-hizabi-programmer/d-hizabi-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
